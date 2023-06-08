@@ -1,0 +1,106 @@
+{
+    "visitor": {
+        "/user/register": {
+            "post": true
+        },
+        "/user/login": {
+            "post": true
+        }
+    },
+    "user": {
+        "/user/login": {
+            "get": true
+        },
+        "/user/logout": {
+            "delete": true
+        },
+        "/user": {
+            "get": true
+        },
+        "/user/search": {
+            "get": true
+        },
+        "/chats": {
+            "get": true
+        },
+        "/chat/create": {
+            "post": true
+        },
+        "/chat/invite": {
+            "post": true,
+            "get": true
+        },
+        "/chat/users": {
+            "get": true
+        },
+        "/chat/invites": {
+            "get": true
+        },
+        "/chat/accept-invite/:id": {
+            "put": true
+        },
+        "/chat/ban": {
+            "put": true
+        },
+        "/chat/message": {
+            "post": true
+        },
+        "/chat/messages/:id": {
+            "get": true
+        },
+        "/chat/disconnect": {
+            "post": true
+        },
+        "/sse": {
+            "get": true
+        }
+    },
+    "superadmin": {
+        "/user/login": {
+            "get": true
+        },
+        "/user/logout": {
+            "delete": true
+        },
+        "/user": {
+            "get": true
+        },
+        "/user/search": {
+            "get": true
+        },
+        "/chats": {
+            "get": true
+        },
+        "/chat/create": {
+            "post": true
+        },
+        "/chat/invite": {
+            "post": true,
+            "get": true
+        },
+        "/chat/users": {
+            "get": true
+        },
+        "/chat/invites": {
+            "get": true
+        },
+        "/chat/ban": {
+            "put": true
+        },
+        "/chat/message": {
+            "post": true
+        },
+        "/chat/messages/:id": {
+            "get": true
+        },
+        "/chat/delete-message/:id": {
+            "delete": true
+        },
+        "/chat/disconnect": {
+            "post": true
+        },
+        "/sse": {
+            "get": true
+        }
+    }
+}

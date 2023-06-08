@@ -1,0 +1,93 @@
+/* .header-link-div {
+    font-size: 20px
+}
+
+.usersListGroup {
+    max-height: 200px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+.listWrapper {
+    max-height: 200px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+.usersListGroupItem {
+    border-radius: 15px;
+}
+
+.usersListGroupItem:hover {
+    cursor: pointer;
+    background: rgb(95, 145, 255);
+}
+
+.chatListGroup {
+    max-height: 400px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+.chatListGroupItem {
+    border-radius: 15px;
+}
+
+.chatListGroupItem:hover {
+    cursor: pointer;
+    background: rgb(95, 145, 255);
+}
+
+.messageOther {
+    display: block;
+    margin-right: auto;
+    background: rgb(194, 191, 196) !important;
+    padding: 15px;
+    border-radius: 15px;
+    max-width: fit-content;
+}
+
+.messageMine {
+    display: block;
+    margin-left: auto;
+    background: rgb(95, 145, 255) !important;
+    padding: 15px;
+    border-radius: 15px;
+    max-width: fit-content;
+}
+
+.userListWrapper {
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+.setShowUsersBadge:hover {
+    cursor: pointer;
+    color: rgb(6, 7, 8);
+}
+
+.deleteMessageBadge:hover {
+    cursor: pointer;
+}
+
+.chatWrapper {
+    max-height: 500px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+.orderByDiv:hover {
+    cursor: pointer;
+    color: rgb(95, 145, 255);
+} */
